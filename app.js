@@ -1,2 +1,2 @@
-var name= "Everyone!";
-console.log("Hello " + name);
+require('./instantHello');
+var goodbye = require('./talk/goodbye');
